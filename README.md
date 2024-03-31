@@ -1,4 +1,4 @@
-# Welcome! A group project is available here 🩵
+# Welcome! A group final project is available here 🩵
 
 This project has been made by : 
  * 👩🏻 Eugenia **MELLANO**
