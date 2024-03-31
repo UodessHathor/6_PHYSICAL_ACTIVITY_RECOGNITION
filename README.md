@@ -1,10 +1,8 @@
 # Welcome! A Data Science project made in group is available here 🩵
----
 
 This project has been made by : 
  * 👩🏻 Eugenia **MELLANO**
  * 👩🏽 Doriane **DOYON-DOUSSE**
-
 
 ---
 ---
@@ -66,18 +64,20 @@ This project has been made by :
 * The objective of this project is to **create a model**  so that through the collected data, the action performed can be classified.
 
 
+## Variables 🖥️
+
  ### **The dataset have following format**: 👩🏽‍💻
  
  [user],[activity],[timestamp],[x-axis],[y-axis],[z-axis];
  
-  🔹 **User**: 1 to 36 
+   * 🔹 **User**: 1 to 36 
 
-  🎯 **Activity**: nominal, {Walking, Jogging, Sitting, Standing, Upstairs, Downstairs} 
+   * 🎯 **Activity**: nominal, {Walking, Jogging, Sitting, Standing, Upstairs, Downstairs} 
 
-  🔹 **Timestamp**: numeric, generally the phone's uptime in nanoseconds."
+   * 🔹 **Timestamp**: numeric, generally the phone's uptime in nanoseconds."
 
-  🔹 **X-axis**
+   * 🔹 **X-axis**
 
-  🔹 **Y-axis**
+   * 🔹 **Y-axis**
 
-  🔹 **Z-axis**
+   *🔹 **Z-axis**
