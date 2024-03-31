@@ -5,7 +5,6 @@ This project has been made by :
  * 👩🏽 Doriane **DOYON-DOUSSE**
 
 ---
----
 
 ## Optimization of Sports Performance Through Activity Monitoring: Focused on the Vacation Period 🏃🏽‍♀️🏋🏻‍♂️
 
