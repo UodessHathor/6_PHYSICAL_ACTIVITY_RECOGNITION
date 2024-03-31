@@ -57,7 +57,7 @@ This project has been made by :
 * Each user performed some or all of these actions: 
     * **Sitting** 🪑
     * **Standing**🧍🏻‍♀️
-    * **Walking **🚶🏻‍♀️
+    * **Walking**🚶🏻‍♀️
     * **Jogging** 🏃🏽‍♀️
     * **Upstairs** 🪜⬆️
     * **Downstairs** 🪜⬇️
