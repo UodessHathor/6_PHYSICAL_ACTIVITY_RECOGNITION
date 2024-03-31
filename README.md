@@ -1,4 +1,4 @@
-# Welcome! A Data Science project made in group is available here 🩵
+# Welcome! A group project data science is available here 🩵
 
 This project has been made by : 
  * 👩🏻 Eugenia **MELLANO**
