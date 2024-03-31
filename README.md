@@ -22,7 +22,7 @@ This project has been made by :
     * 👉🏽 We **sampled dataset** in some parts of the Exploratory Data Analysis because of big amount of data 
     * 👉🏽 Again, for deep learning model execution we recommand **Google Colab** usage ⭐️
       
- * 🟣 🔗 **PowerPoint** :  Have a look at the presentation we made (pdf compressed file) <ins>*Demo_mellano_dousse-min.pdf*</ins>  
+ * 🟡 🔗 **PowerPoint** :  Have a look at the presentation we made (pdf compressed file) <ins>*Demo_mellano_dousse-min.pdf*</ins>  
 
  * 🔵 Thanks for your attention, **Enjoy this project!** ✨
 
